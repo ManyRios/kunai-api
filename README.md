@@ -28,7 +28,7 @@ npm install
 ```bash
 npm run dev
 # Or using ts-node directly:
-npx ts-node src/app.ts
+npx ts-node src/server.ts
 ```
 ## 🧪 Unit Testing
 
